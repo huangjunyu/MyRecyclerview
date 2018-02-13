@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.jaeger.library.StatusBarUtil;
 
 /**
- * Created by Jaeger on 16/2/14.
+ * Created by Huangjunyu on 16/2/14.
  *
  * Email: chjie.jaeger@gmail.com
  * GitHub: https://github.com/laobie
