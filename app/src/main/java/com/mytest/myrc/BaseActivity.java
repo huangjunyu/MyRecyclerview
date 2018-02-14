@@ -7,7 +7,7 @@ import com.jaeger.library.StatusBarUtil;
 /**
  * Created by Huangjunyu on 16/2/14.
  *
- * Email: chjie.jaeger@gmail.com
+ * Email: chjie.jaeger@gmail.co
  * GitHub: https://github.com/laobie
  */
 public class BaseActivity extends AppCompatActivity {
