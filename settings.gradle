@@ -1,1 +1,1 @@
-include ':app', ':myObserver'
+include ':app', ':myObserver', ':activityanimation', 'activity_material_animations'

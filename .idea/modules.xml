@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyRc.iml" filepath="$PROJECT_DIR$/MyRc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityanimation/activityanimation.iml" filepath="$PROJECT_DIR$/activityanimation/activityanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/myObserver/myObserver.iml" filepath="$PROJECT_DIR$/myObserver/myObserver.iml" />
     </modules>
